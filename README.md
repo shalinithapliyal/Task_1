@@ -1,6 +1,7 @@
 # Task_2
 Problem statement 1:(Data Analysis)
 There are two parts to the task. You need to complete both.
+
 Part 1
 As a data analysis intern, you are provided with a general store transaction dataset. You are supposed to do the following operations.
 Draw a Pivot table to get the different types of outlets and their counts
