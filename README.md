@@ -1,5 +1,5 @@
-# Task_2
-Problem statement 1:(Data Analysis)
+# Task_2-Problem statement 1
+(Data Analysis)
 There are two parts to the task. You need to complete both.
 
 Part 1
